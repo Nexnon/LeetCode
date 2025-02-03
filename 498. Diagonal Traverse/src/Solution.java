@@ -12,7 +12,7 @@ public class Solution {
             result[k] = mat[i][j];
             if(isUp){
                 if(i == 0 || j == cols - 1){
-                    isUp = !isUp;
+                    isUp = false;
                 } else
                     i--;
                 if(j == cols - 1){
@@ -22,7 +22,7 @@ public class Solution {
                 }
             } else{
                 if(j == 0 || i == rows - 1){
-                    isUp = !isUp;
+                    isUp = true;
                 } else
                     j--;
                 if(i == rows - 1){
