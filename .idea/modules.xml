@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1025. Divisor Game/1025. Divisor Game.iml" filepath="$PROJECT_DIR$/1025. Divisor Game/1025. Divisor Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1331. Rank Transform of an Array/1331. Rank Transform of an Array.iml" filepath="$PROJECT_DIR$/1331. Rank Transform of an Array/1331. Rank Transform of an Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/2276. Count Integers in Intervals/2276. Count Integers in Intervals.iml" filepath="$PROJECT_DIR$/2276. Count Integers in Intervals/2276. Count Integers in Intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/350. Intersection of Two Arrays II/350. Intersection of Two Arrays II.iml" filepath="$PROJECT_DIR$/350. Intersection of Two Arrays II/350. Intersection of Two Arrays II.iml" />
       <module fileurl="file://$PROJECT_DIR$/498. Diagonal Traverse/498. Diagonal Traverse.iml" filepath="$PROJECT_DIR$/498. Diagonal Traverse/498. Diagonal Traverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/697. Degree of an Array/697. Degree of an Array.iml" filepath="$PROJECT_DIR$/697. Degree of an Array/697. Degree of an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.iml" filepath="$PROJECT_DIR$/963. Minimum Area Rectangle II/963. Minimum Area Rectangle II.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
     </modules>
   </component>
